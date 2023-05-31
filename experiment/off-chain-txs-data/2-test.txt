@@ -1,0 +1,46 @@
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) opens CH ("channel-501"): 628iUuoZpiP5oDkbkyhkkKkwSgPQEE5Kz9xvbp4VMXeAkH882LMvm4JZur5VLpX9j9uqaCpT9egkCW1ueNm8Ps9A
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) invites B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) to CH ("channel-501"): 55ZJexrXMxUDdUKr63HP97v3e5EdgZypNrevbrX7adpEH2U1KEfYnuXmHv1G5VGiQ5yseWqeu4nfRqxE2R9BpEMz
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) joins CH ("channel-501"): 64EDBSrPe7cEqLdoSBjGS7hbboKjARcoKPepvTthqs8yZtgx2cU72nDCa9e4PHu19AeNHyz1JecZS5fAip3Bttk1
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) performs (10) off-chain txs towards B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG)
+
+[
+  1,
+  11,
+  20,
+  30,
+  40,
+  48,
+  55,
+  63,
+  72,
+  83,
+]
+
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) invites C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) to CH ("channel-501"): 3r8vwLeMgbwiPm7ofwqyFAkKgPDvJvSjezUgEGZ6wkwjWKRHtNhxr75PHjSzHnnMHvwdapUixfUW3miVGKbtVZMm
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) leaves CH ("channel-501"): 4sE7CaZr9XzdAebuZqi8HQwLS9P3LkddHBKy4qvFXYJVaMt64u8ZdEXZ2SMBoevMvmuPEJPc7TPy4i5QF4jKJCjv
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) joins CH ("channel-501"): 2JgLE2tdn2yhntJiDfU9skqtJV8RVQkyks9mEJevkQ3uq8fUBkqn9jNZ4gMtcQSs9LYakRHGw9jTA9EcL97sFt2Q
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) perfroms (n - 2) off-chain txs towards C (): 
+
+Last off-chain state:  [
+  {
+    address: 'Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG',
+    balance: 10081
+  },
+  {
+    address: '3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD',
+    balance: 10002
+  }
+]
+
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) leaves CH ("channel-501"): 21nRkBGh5D3KkTndxUxeaX8innsTNDW8punuDzmLF9YEukmGUSJoLw9xvNCNgGLMyNMLXVWfy3Gm5Z3iQ8hh36nN
+
+Last off-chain state:  [
+  {
+    address: 'Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG',
+    balance: 10081
+  }
+]
+
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) leaves CH ("channel-501"): 4m3t4YvejDFL3KANPpLh7FxxAMHToDs11umd6JMs7wPLWB4mdF8E4yRNLNjiENAsnDN85xQEnDenj9EnuNE5zKEE
+
+Last off-chain state:  []

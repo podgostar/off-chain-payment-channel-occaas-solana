@@ -1,0 +1,46 @@
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) opens CH ("channel-507"): 5ZqkgbTEkQKTwJirZ8TpqcMfnbJxNvvpDTsHG9nFGmKpEdAApZ9cXoUyGNU9ojGRb4PRJDgvWEo4Z7ktekEDqzZe
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) invites B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) to CH ("channel-507"): 2Tt54Hxiebz6ezGreuwMwfPNTnzRWKqJGaxV5641626woCsdtJvmeiQ8wiGjRvrTcFXyzu5rE2jdie3QtKAM4Poo
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) joins CH ("channel-507"): 3BY5sWyNbuBc1AzUwvvWFWmmno1CTquLZmCs29ysqsABmH5Xyd5HNCEtfuqWHQeaHdrcqPjQVZxV5u2fgkcD2PJH
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) performs (10) off-chain txs towards B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG)
+
+[
+3,
+18,
+38,
+51,
+71,
+98,
+134,
+152,
+167,
+185
+]
+
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) invites C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) to CH ("channel-507"): 59FMiFxGg1z8YJQFG9rMdd2dzw5ruryLaRQ21z2bexjSQpSdgdSmsPL6oTC2zZ5RjLdFQGh6h4srcyk6XHqTqSwg
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) leaves CH ("channel-507"): 32DY24apCPn99A5r9LYtUfRikcjYJ6kxr4GiFmXDx1d14UYuXL588vLQxgjRQTUJtVetYSYSsidiucfST4BN1rDR
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) joins CH ("channel-507"): 5CzBFz4SXECX1W2Vk8zvpB2knuexJmzkUQ34VH3zv8UkYvi2pTEvZPg5Z5mtAMfMBhBr2PuzjGJFNdCRy9mwBunW
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) perfroms (n - 2) off-chain txs towards C (): 
+
+Last off-chain state:  [
+  {
+    address: 'Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG',
+    balance: 10183
+  },
+  {
+    address: '3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD',
+    balance: 10002
+  }
+]
+
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) leaves CH ("channel-507"): 4FvRojj4QTkSori2YQNB5s1rQ68cgcf8DRfPZtLwCzUKC7reK7YcTBzwgKc82LdUzKz77iHT7ksZ6gyVrjYJAhxW
+
+Last off-chain state:  [
+  {
+    address: 'Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG',
+    balance: 10183
+  }
+]
+
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) leaves CH ("channel-507"): 4nF94TJEd5odwGBsKiTxcB7x1xQpHPqLZnmrpcTX6tYLqMLHcmWLAAZx4KuHCFHPV71feGAkoS2aPwVyfZiTZLR
+
+Last off-chain state:  []

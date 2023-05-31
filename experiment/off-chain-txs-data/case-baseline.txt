@@ -1,0 +1,24 @@
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) opens CH ("channel-300"): https://solscan.io/tx/56wfgUYyxyEMeWNzrsxo2UHephiWuVoEYXAUhd6NnRifR7bTmRQdAgQHE3pKC7mJrk5y4XmvqETBQ5YzTvsuyfn1?cluster=testnet
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) invites B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) to CH ("channel-300"): https://solscan.io/tx/5jBWMgPB9Sw4KM436sF7EQWKt1vuFnyzTX32jrNqo3WdkPFEajUK3hbCFknjR2yfBG21gMJGiR5odv8rqqGrLeiV?cluster=testnet
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) joins CH ("channel-300"): https://solscan.io/tx/2EPvqRX1egcQCJXaKpwQt9KAT95djr76kwFR25Ke9sBYPKq9YqnyyUHR7SYTZ48vefepYiVhdFTTJSphfkQ1nrzH?cluster=testnet
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) performs (10) off-chain txs towards B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG)
+
+[
+    17,
+    47,
+    63,
+    72,
+    80,
+    89,
+    104,
+    117,
+    132,
+    143,
+]
+
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) invites C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) to CH ("channel-300"):
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) leaves CH ("channel-300"): https://solscan.io/tx/4UePfdX6uesEbwWAPjs8obKhq6jiq17XbBVb9B46RBSyVsVgbGVVk8zRBKZ4JMtF6KpDfoVzvHJQxwGNvrY9ay2h?cluster=testnet
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) joins CH ("channel-300"):
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) perfroms (n - 2) off-chain txs towards C ():
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) leaves CH ("channel-300")
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) leaves CH ("channel-300")

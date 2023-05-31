@@ -1,0 +1,46 @@
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) opens CH ("channel-500"): 4gLvwwGG3gXhn4nkfZxAo822DJNszhMnruaT1XzbmxWXoYqJpKzytZpucaSgdnFeMaB4aWpfKztpwR4Z5t4WNtU8
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) invites B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) to CH ("channel-500"):25w3wxbeYVp7PBiDz8sq54JDihosirXTwPmLAncFLRNZK8BtV9SPPqRsdR2Pvc872975B3YH34Cq233vUVY7Wth3
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) joins CH ("channel-500"): apFSR1F3sTEZRGy8S8BvKqYTWZBfjNrhVMEHjSYK3GJ2tfYRuhioVf2HJNmVQVQPXCEbXg3EXqZKavd7hgD9P3a
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) performs (10) off-chain txs towards B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG)
+
+[
+    8,
+    28,
+    46,
+    65,
+    82,
+    93,
+    109,
+    127,
+    145,
+    162,
+]
+
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) invites C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) to CH ("channel-500"): 5Pk2tJBZcuFnR8fJKAsSswK5jxoQqPB7uVYdA6Eg1MwHsHGo7BDb8VV8pfV9fWqAHJYrgvmBaojpZkZ3bdvqHXPo
+A (6gAw3zZ4DKxzNnMUoxsAWqcAFT49iqd4SxS2rAxq8k3s) leaves CH ("channel-500"): 3Rf94mRyLbgvnGzdz43iqMv77Ta4VbFzHi6um76xmu8R85GgqTN8vgnuGDgF5NRdptN7ZPHNJqggs6YNpukccjAL
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) joins CH ("channel-500"): 5V41BR5Nrshq1ofZVYd1H5ghgZBmtZwt8fPaZYRrHG5MP3AC1np8GcWUxkU3XZHtVEFRSU2SFEB3DVLr56oaYKW7
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) perfroms (n - 2) off-chain txs towards C (): 
+
+Last off-chain state:  [
+  {
+    address: 'Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG',
+    balance: 10160
+  },
+  {
+    address: '3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD',
+    balance: 10002
+  }
+]
+
+C (3rNrYrjLdEYzhxFEoxXQ25vvxACs5GQsoksy4puMKwGD) leaves CH ("channel-500"): 5gjyyM1LNESPUqv8mgBZE8aeivV1YDTvTmnSfk2vRLiAjWuKEDDz84cY2ctEMdBDbhy5Jcqu6Qtn8pZEdnLT6Lg5
+
+Last off-chain state:  [
+  {
+    address: 'Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG',
+    balance: 10160
+  }
+]
+
+B (Eqh9BnhpXBG9vw4G2HunJUDoVFcf5Xf7WLVaffAzKphG) leaves CH ("channel-500"): 3Mpyx9CpqT3w3J5B3r2hxjSh58TZBiLZM1q3QVcPs2AaZaJXkRTPZjKX5PKJFwaj7MbuJfc7iAzfWz7cPXz1JMLf
+
+Last off-chain state:  []
