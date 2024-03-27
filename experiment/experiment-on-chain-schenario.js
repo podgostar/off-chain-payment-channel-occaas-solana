@@ -4,14 +4,14 @@ const Nacl = require("tweetnacl");
 const Base58 = require("base-58");
 const marky = require('marky');
 
-const configuration = require("../configuration.js");
+const configuration = require("./configuration.js");
 const connection = configuration.connection;
 
 const sender_keypair = Web3.Keypair.fromSecretKey(Uint8Array.from(configuration.stakeholder1_private_key));
 const receiver_public_key = configuration.stakeholder2_public_key;
 
 const amount = configuration.tx_amount;
-const number_of_transactions = configuration.number_of_transactions;
+const number_of_transactions = configuration.num_of_tx_to_be_tested;
 
 const main = async (sender, receiver, amount) => {
 
